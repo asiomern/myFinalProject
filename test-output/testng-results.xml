@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="39" passed="39" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-01-30T16:57:16 IST" name="Suite" finished-at="2024-01-30T16:57:43 IST" duration-ms="26791">
+    <groups>
+    </groups>
+    <test started-at="2024-01-30T16:57:16 IST" name="Test" finished-at="2024-01-30T16:57:43 IST" duration-ms="26791">
+      <class name="Tests.TestMenu">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestMenu@55536d9e]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:23 IST" duration-ms="6277" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_enterAboutPage()[pri:0, instance:Tests.TestMenu@55536d9e]" started-at="2024-01-30T16:57:23 IST" name="tc_01_enterAboutPage" finished-at="2024-01-30T16:57:36 IST" duration-ms="12852" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_enterAboutPage -->
+        <test-method signature="tc_02_backToAllItems()[pri:0, instance:Tests.TestMenu@55536d9e]" started-at="2024-01-30T16:57:36 IST" name="tc_02_backToAllItems" finished-at="2024-01-30T16:57:37 IST" duration-ms="967" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_backToAllItems -->
+        <test-method signature="tc_03_enterToCartPage()[pri:0, instance:Tests.TestMenu@55536d9e]" started-at="2024-01-30T16:57:37 IST" name="tc_03_enterToCartPage" finished-at="2024-01-30T16:57:37 IST" duration-ms="48" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_enterToCartPage -->
+        <test-method signature="tc_04_logOut()[pri:0, instance:Tests.TestMenu@55536d9e]" started-at="2024-01-30T16:57:37 IST" name="tc_04_logOut" finished-at="2024-01-30T16:57:37 IST" duration-ms="590" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04_logOut -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestMenu@55536d9e]" started-at="2024-01-30T16:57:37 IST" name="thirDown" finished-at="2024-01-30T16:57:38 IST" duration-ms="681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestMenu -->
+      <class name="Tests.TestProductPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestProductPage@3d1cfad4]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:22 IST" duration-ms="5635" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_backToProductsPage()[pri:0, instance:Tests.TestProductPage@3d1cfad4]" started-at="2024-01-30T16:57:22 IST" name="tc_01_backToProductsPage" finished-at="2024-01-30T16:57:25 IST" duration-ms="3350" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_backToProductsPage -->
+        <test-method signature="tc_02_addToCart()[pri:0, instance:Tests.TestProductPage@3d1cfad4]" started-at="2024-01-30T16:57:25 IST" name="tc_02_addToCart" finished-at="2024-01-30T16:57:27 IST" duration-ms="1108" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_addToCart -->
+        <test-method signature="tc_03_removeFromCart()[pri:0, instance:Tests.TestProductPage@3d1cfad4]" started-at="2024-01-30T16:57:27 IST" name="tc_03_removeFromCart" finished-at="2024-01-30T16:57:27 IST" duration-ms="471" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_removeFromCart -->
+        <test-method signature="tc_04_enterCartPage()[pri:0, instance:Tests.TestProductPage@3d1cfad4]" started-at="2024-01-30T16:57:27 IST" name="tc_04_enterCartPage" finished-at="2024-01-30T16:57:27 IST" duration-ms="263" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04_enterCartPage -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestProductPage@3d1cfad4]" started-at="2024-01-30T16:57:27 IST" name="thirDown" finished-at="2024-01-30T16:57:28 IST" duration-ms="621" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestProductPage -->
+      <class name="Tests.TestThankYouPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestThankYouPage@346d61be]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:23 IST" duration-ms="6698" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="backHome()[pri:0, instance:Tests.TestThankYouPage@346d61be]" started-at="2024-01-30T16:57:23 IST" name="backHome" finished-at="2024-01-30T16:57:29 IST" duration-ms="5443" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- backHome -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestThankYouPage@346d61be]" started-at="2024-01-30T16:57:29 IST" name="thirDown" finished-at="2024-01-30T16:57:29 IST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestThankYouPage -->
+      <class name="Tests.TestOverViewPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestOverViewPage@3e6ef8ad]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:23 IST" duration-ms="6564" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="clickCancel()[pri:0, instance:Tests.TestOverViewPage@3e6ef8ad]" started-at="2024-01-30T16:57:23 IST" name="clickCancel" finished-at="2024-01-30T16:57:28 IST" duration-ms="5295" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickCancel -->
+        <test-method signature="clickFinish()[pri:0, instance:Tests.TestOverViewPage@3e6ef8ad]" started-at="2024-01-30T16:57:28 IST" name="clickFinish" finished-at="2024-01-30T16:57:30 IST" duration-ms="1681" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickFinish -->
+        <test-method signature="clickOnProduct()[pri:0, instance:Tests.TestOverViewPage@3e6ef8ad]" started-at="2024-01-30T16:57:30 IST" name="clickOnProduct" finished-at="2024-01-30T16:57:32 IST" duration-ms="2192" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickOnProduct -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestOverViewPage@3e6ef8ad]" started-at="2024-01-30T16:57:32 IST" name="thirDown" finished-at="2024-01-30T16:57:33 IST" duration-ms="649" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestOverViewPage -->
+      <class name="Tests.TestCheckOutPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestCheckOutPage@62230c58]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:23 IST" duration-ms="6508" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_validInfo()[pri:0, instance:Tests.TestCheckOutPage@62230c58]" started-at="2024-01-30T16:57:23 IST" name="tc_01_validInfo" finished-at="2024-01-30T16:57:28 IST" duration-ms="5158" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_validInfo -->
+        <test-method signature="tc_02_blankFirstName()[pri:0, instance:Tests.TestCheckOutPage@62230c58]" started-at="2024-01-30T16:57:28 IST" name="tc_02_blankFirstName" finished-at="2024-01-30T16:57:29 IST" duration-ms="1214" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_blankFirstName -->
+        <test-method signature="tc_03_blankLastName()[pri:0, instance:Tests.TestCheckOutPage@62230c58]" started-at="2024-01-30T16:57:29 IST" name="tc_03_blankLastName" finished-at="2024-01-30T16:57:31 IST" duration-ms="1395" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_blankLastName -->
+        <test-method signature="tc_04_blankPostalCode()[pri:0, instance:Tests.TestCheckOutPage@62230c58]" started-at="2024-01-30T16:57:31 IST" name="tc_04_blankPostalCode" finished-at="2024-01-30T16:57:32 IST" duration-ms="976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04_blankPostalCode -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestCheckOutPage@62230c58]" started-at="2024-01-30T16:57:32 IST" name="thirDown" finished-at="2024-01-30T16:57:32 IST" duration-ms="609" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestCheckOutPage -->
+      <class name="Tests.TestAboutPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestAboutPage@747edf66]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:22 IST" duration-ms="5810" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_tryItFree()[pri:0, instance:Tests.TestAboutPage@747edf66]" started-at="2024-01-30T16:57:22 IST" name="tc_01_tryItFree" finished-at="2024-01-30T16:57:41 IST" duration-ms="18902" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_tryItFree -->
+        <test-method signature="tc_02_requestAdemo()[pri:0, instance:Tests.TestAboutPage@747edf66]" started-at="2024-01-30T16:57:41 IST" name="tc_02_requestAdemo" finished-at="2024-01-30T16:57:43 IST" duration-ms="1431" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_requestAdemo -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestAboutPage@747edf66]" started-at="2024-01-30T16:57:43 IST" name="thirDown" finished-at="2024-01-30T16:57:43 IST" duration-ms="631" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestAboutPage -->
+      <class name="Tests.TestCartPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestCartPage@59af0466]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:22 IST" duration-ms="5605" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_checkOutEmptyCart()[pri:0, instance:Tests.TestCartPage@59af0466]" started-at="2024-01-30T16:57:22 IST" name="tc_01_checkOutEmptyCart" finished-at="2024-01-30T16:57:25 IST" duration-ms="2983" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_checkOutEmptyCart -->
+        <test-method signature="tc_02_continueShopping()[pri:0, instance:Tests.TestCartPage@59af0466]" started-at="2024-01-30T16:57:25 IST" name="tc_02_continueShopping" finished-at="2024-01-30T16:57:26 IST" duration-ms="677" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_continueShopping -->
+        <test-method signature="tc_03_removeProduct()[pri:0, instance:Tests.TestCartPage@59af0466]" started-at="2024-01-30T16:57:26 IST" name="tc_03_removeProduct" finished-at="2024-01-30T16:57:27 IST" duration-ms="1194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_removeProduct -->
+        <test-method signature="tc_04_enterProductPage()[pri:0, instance:Tests.TestCartPage@59af0466]" started-at="2024-01-30T16:57:27 IST" name="tc_04_enterProductPage" finished-at="2024-01-30T16:57:28 IST" duration-ms="785" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04_enterProductPage -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestCartPage@59af0466]" started-at="2024-01-30T16:57:28 IST" name="thirDown" finished-at="2024-01-30T16:57:28 IST" duration-ms="622" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestCartPage -->
+      <class name="Tests.TestProductsPage">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:23 IST" duration-ms="6352" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_addToCart()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:23 IST" name="tc_01_addToCart" finished-at="2024-01-30T16:57:26 IST" duration-ms="3657" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_addToCart -->
+        <test-method signature="tc_02_removeFromCart()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:26 IST" name="tc_02_removeFromCart" finished-at="2024-01-30T16:57:27 IST" duration-ms="792" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_removeFromCart -->
+        <test-method signature="tc_03_productPage()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:27 IST" name="tc_03_productPage" finished-at="2024-01-30T16:57:28 IST" duration-ms="505" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_productPage -->
+        <test-method signature="tc_04_sortAtoZ()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:28 IST" name="tc_04_sortAtoZ" finished-at="2024-01-30T16:57:28 IST" duration-ms="734" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04_sortAtoZ -->
+        <test-method signature="tc_05_sortZtoA()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:28 IST" name="tc_05_sortZtoA" finished-at="2024-01-30T16:57:29 IST" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_05_sortZtoA -->
+        <test-method signature="tc_06_sortLowtoHigh()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:29 IST" name="tc_06_sortLowtoHigh" finished-at="2024-01-30T16:57:30 IST" duration-ms="687" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_06_sortLowtoHigh -->
+        <test-method signature="tc_07_sortHightoLow()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:30 IST" name="tc_07_sortHightoLow" finished-at="2024-01-30T16:57:31 IST" duration-ms="712" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_07_sortHightoLow -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestProductsPage@2cd2a21f]" started-at="2024-01-30T16:57:31 IST" name="thirDown" finished-at="2024-01-30T16:57:31 IST" duration-ms="646" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestProductsPage -->
+      <class name="Tests.TestFooterSocialMedia">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestFooterSocialMedia@74455848]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:23 IST" duration-ms="6162" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_linkedin()[pri:0, instance:Tests.TestFooterSocialMedia@74455848]" started-at="2024-01-30T16:57:23 IST" name="tc_01_linkedin" finished-at="2024-01-30T16:57:30 IST" duration-ms="6893" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_linkedin -->
+        <test-method signature="tc_02_facebook()[pri:0, instance:Tests.TestFooterSocialMedia@74455848]" started-at="2024-01-30T16:57:30 IST" name="tc_02_facebook" finished-at="2024-01-30T16:57:32 IST" duration-ms="2944" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_facebook -->
+        <test-method signature="tc_03_twitter()[pri:0, instance:Tests.TestFooterSocialMedia@74455848]" started-at="2024-01-30T16:57:32 IST" name="tc_03_twitter" finished-at="2024-01-30T16:57:40 IST" duration-ms="7321" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_twitter -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestFooterSocialMedia@74455848]" started-at="2024-01-30T16:57:40 IST" name="thirDown" finished-at="2024-01-30T16:57:41 IST" duration-ms="793" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestFooterSocialMedia -->
+      <class name="Tests.TestLogin">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:16 IST" name="setup" finished-at="2024-01-30T16:57:23 IST" duration-ms="6121" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setup -->
+        <test-method signature="tc_01_blankUserNameField()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:23 IST" name="tc_01_blankUserNameField" finished-at="2024-01-30T16:57:25 IST" duration-ms="2467" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_01_blankUserNameField -->
+        <test-method signature="tc_02_blankPasswordField()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:25 IST" name="tc_02_blankPasswordField" finished-at="2024-01-30T16:57:26 IST" duration-ms="1205" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_02_blankPasswordField -->
+        <test-method signature="tc_03_wrongPassLogin()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:26 IST" name="tc_03_wrongPassLogin" finished-at="2024-01-30T16:57:27 IST" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_03_wrongPassLogin -->
+        <test-method signature="tc_04_wrongUserNameLogin()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:27 IST" name="tc_04_wrongUserNameLogin" finished-at="2024-01-30T16:57:28 IST" duration-ms="652" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_04_wrongUserNameLogin -->
+        <test-method signature="tc_05_wrongPassAndUserName()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:28 IST" name="tc_05_wrongPassAndUserName" finished-at="2024-01-30T16:57:29 IST" duration-ms="694" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_05_wrongPassAndUserName -->
+        <test-method signature="tc_06_capitalLettersLogin()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:29 IST" name="tc_06_capitalLettersLogin" finished-at="2024-01-30T16:57:29 IST" duration-ms="743" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_06_capitalLettersLogin -->
+        <test-method signature="tc_07_validLogin()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:29 IST" name="tc_07_validLogin" finished-at="2024-01-30T16:57:30 IST" duration-ms="1069" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tc_07_validLogin -->
+        <test-method is-config="true" signature="thirDown()[pri:0, instance:Tests.TestLogin@2e55dd0c]" started-at="2024-01-30T16:57:30 IST" name="thirDown" finished-at="2024-01-30T16:57:31 IST" duration-ms="616" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirDown -->
+      </class> <!-- Tests.TestLogin -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
